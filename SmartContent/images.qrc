@@ -1,0 +1,36 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>images/360_F_252486270_nwCFOCDQrxWeQSA5CI1PwPnjd5GOY4WB.png</file>
+        <file>images/chat.png</file>
+        <file>images/chatbot.png</file>
+        <file>images/clientlogo.png</file>
+        <file>images/content.png</file>
+        <file>images/contentlogo.png</file>
+        <file>images/contentlogo-removebg-preview.png</file>
+        <file>images/download.png</file>
+        <file>images/employelogo.png</file>
+        <file>images/eventlogo.ng.png</file>
+        <file>images/eventlogo.ng-removebg-preview.png</file>
+        <file>images/export.png</file>
+        <file>images/homelogo.png</file>
+        <file>images/logoapp.png</file>
+        <file>images/logoevent.png</file>
+        <file>images/logoprojet.png</file>
+        <file>images/logoprojet-removebg-preview.png</file>
+        <file>images/pngtree-vector-performance-icon-png-image_908499.jpg</file>
+        <file>images/pngtree-vector-performance-icon-png-image_908499-removebg-preview.png</file>
+        <file>images/projetlogo.png</file>
+        <file>images/QRCODE.png</file>
+        <file>images/resource.png</file>
+        <file>images/resource-removebg-preview.png</file>
+        <file>images/search.png</file>
+        <file>images/sort.png</file>
+        <file>images/sort-descending-icon-data-table-260nw-2653667215.webp</file>
+        <file>images/statitic.png</file>
+        <file>images/statitics.webp</file>
+        <file>images/success.png</file>
+        <file>images/SUCSESSRATELOGO.png</file>
+        <file>images/user logo.png</file>
+        <file>images/stats_salaires.png</file>
+    </qresource>
+</RCC>

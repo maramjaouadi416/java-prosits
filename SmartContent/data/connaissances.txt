@@ -1,0 +1,169 @@
+[mot-clé:bonjour]
+Salut ! 😊
+Bonjour ! Prêt à gérer des événements ?
+Hello ! Un événement à organiser aujourd’hui ?
+Coucou ! Comment ça va ?
+Bien le bonjour ! Que puis-je faire pour vous ?
+
+[mot-clé:hello]
+Hi there!
+Hello! How can I help?
+Hey! Need event info?
+Greetings! Ready to plan something?
+
+[mot-clé:salut]
+Salut ! Ça roule ?
+Yo ! Besoin d’un coup de main ?
+Salut ! Un événement en vue ?
+Salut l’artiste ! 😄
+
+[mot-clé:merci]
+Avec plaisir !
+De rien !
+Je suis là pour ça.
+Toujours content d’aider !
+C’est moi qui te remercie !
+
+[mot-clé:thanks]
+You're welcome!
+No problem!
+Glad to help!
+Anytime!
+
+[mot-clé:aide]
+Dites-moi ce que vous cherchez : un événement, un type, un lieu ?
+Je peux vous aider à lister, compter ou rechercher des événements.
+Posez-moi une question sur vos données.
+Besoin d’aide ? Dites-moi ce que vous voulez faire !
+Je suis votre assistant événementiel. Demandez-moi tout !
+
+[mot-clé:comment]
+Dites-moi ce que vous voulez faire : ajouter, modifier, supprimer ?
+Je peux vous guider pas à pas.
+Précisez votre demande : événements, export, stats ?
+
+[mot-clé:ajouter événement]
+Allez dans l’onglet « Événements », remplissez le formulaire et cliquez sur « Ajouter ».
+Pour créer un événement, remplissez les champs : nom, type, dates, lieu.
+L’ajout se fait via le panneau de droite dans l’onglet événements.
+
+[mot-clé:créer événement]
+Même chose que « ajouter » : remplissez le formulaire et validez.
+Créer = Ajouter. Utilisez le bouton vert « Ajouter ».
+
+[mot-clé:modifier événement]
+Sélectionnez un événement dans la liste, puis cliquez sur « Modifier ».
+Après avoir cliqué sur « Modifier », éditez les champs et enregistrez.
+La modification met à jour les données dans la base immédiatement.
+
+[mot-clé:supprimer événement]
+Sélectionnez un événement, puis cliquez sur « Supprimer » et confirmez.
+La suppression est définitive. Une boîte de dialogue vous demandera confirmation.
+
+[mot-clé:exporter]
+Cliquez sur le bouton « Exporter en PDF » dans l’onglet Événements.
+L’export PDF est disponible en bas à droite de l’interface.
+Tous les événements sont exportés dans un fichier PDF propre.
+
+[mot-clé:pdf]
+Le PDF contient la liste complète des événements avec dates et lieux.
+Fichier enregistré où vous voulez, au format professionnel.
+Export en un clic → PDF prêt à partager !
+
+[mot-clé:statistiques]
+Le graphique montre la répartition des événements par type.
+Cliquez sur « Actualiser les stats » pour mettre à jour.
+Les stats sont générées en temps réel depuis la base.
+
+[mot-clé:graphique]
+C’est un diagramme en barres qui affiche le nombre d’événements par type.
+Le graphique est juste au-dessus du tableau des événements.
+Actualisez-le après chaque ajout/modification.
+
+[mot-clé:recherche]
+Utilisez le champ « Rechercher par nom » et tapez une partie du nom.
+La recherche est instantanée et insensible à la casse.
+Exemple : tapez « lancement » pour trouver « Lancement Produit ».
+
+[mot-clé:trier]
+Sélectionnez un type dans la liste déroulante et cliquez sur « Trier ».
+Le tri place d’abord les événements du type choisi, puis les autres.
+Vous pouvez aussi trier par ID via le tableau.
+
+[mot-clé:événements à venir]
+Les événements futurs s’affichent normalement dans la liste.
+Utilisez la question « événements cette semaine » pour une vue filtrée.
+Le système vérifie aussi les rappels au démarrage.
+
+[mot-clé:rappel]
+Un rappel automatique s’affiche si un événement a lieu dans les 3 prochains jours.
+Les rappels sont visibles dans la zone « Notifications ».
+Pas besoin de cliquer : c’est affiché dès l’ouverture.
+
+[mot-clé:notification]
+La zone en haut à droite affiche les événements imminents.
+Fond jaune = attention, un événement arrive bientôt !
+Les notifications disparaissent quand l’événement est passé.
+
+[mot-clé:application]
+SmartContentCreationStore gère les événements et les employés.
+C’est une application de gestion interne, sécurisée et locale.
+Développée en C++ avec Qt, 100 % hors ligne.
+
+[mot-clé:smartstore]
+C’est le surnom de SmartContentCreationStore !
+L’application idéale pour organiser vos événements professionnels.
+SmartStore = simplicité + contrôle total.
+
+[mot-clé:interface]
+L’interface est en français, claire et adaptée à votre écran.
+Les tableaux s’adaptent automatiquement à la taille de la fenêtre.
+Les couleurs et polices sont configurables (dans le code).
+
+[mot-clé:base de données]
+Toutes les données sont stockées localement dans une base SQLite ou Oracle.
+Aucune donnée ne quitte votre machine.
+Sécurité maximale : vos événements restent chez vous.
+
+[mot-clé:qui es-tu]
+Je suis l’assistant conversationnel de SmartContentCreationStore.
+Je ne suis pas une IA, mais un chatbot local et intelligent.
+Je réponds grâce à votre base de données et à mes fichiers de connaissances.
+
+[mot-clé:tu es]
+Un assistant utile, pas une IA.
+Un outil local, pas un service cloud.
+Votre partenaire événementiel dans cette application.
+
+[mot-clé:au revoir]
+À bientôt !
+Au revoir, et bon événement !
+À la prochaine !
+Prenez soin de vous !
+Bye ! 👋
+
+[mot-clé:bye]
+See you!
+Bye bye!
+À plus tard !
+Goodbye!
+
+[mot-clé:fonctionne]
+L’application fonctionne 100 % en local, sans internet.
+Elle est rapide, fiable et sécurisée.
+Testée et approuvée par des professionnels !
+
+[mot-clé:erreur]
+Si une erreur apparaît, vérifiez les champs saisis.
+Les dates doivent être valides, les noms non vides.
+Relancez l’application si le problème persiste.
+
+[mot-clé:contact]
+Pour toute question, contactez le support interne.
+Cette version est autonome : pas de serveur externe.
+Vous êtes le maître de vos données.
+
+[mot-clé:quoi de neuf]
+Rien de neuf, mais vos événements attendent !
+Vérifiez les rappels en haut de l’écran.
+Un nouvel événement à ajouter aujourd’hui ?

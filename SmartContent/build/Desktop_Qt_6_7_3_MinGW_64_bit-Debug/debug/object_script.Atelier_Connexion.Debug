@@ -1,0 +1,11 @@
+debug/chatbot.o
+debug/connection.o
+debug/employes.o
+debug/evenement.o
+debug/main.o
+debug/projet.o
+debug/smart_cont_creat_stud.o
+debug/qrc_images.o
+debug/moc_chatbot.o
+debug/moc_employes.o
+debug/moc_smart_cont_creat_stud.o

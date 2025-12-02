@@ -1,0 +1,11 @@
+release/chatbot.o
+release/connection.o
+release/employes.o
+release/evenement.o
+release/main.o
+release/projet.o
+release/smart_cont_creat_stud.o
+release/qrc_images.o
+release/moc_chatbot.o
+release/moc_employes.o
+release/moc_smart_cont_creat_stud.o
