@@ -5,7 +5,7 @@ public class Zoo {
     private String city;
     private int nbrAnimals;
     private int nbrAquaticAnimals;
-    private final int MAX_ANIMALS = 25;
+    private final int MAX_ANIMALS = 3;
     private final int MAX_AQUATIC = 10;[cite: 3]
 
     public Zoo() {
@@ -17,6 +17,22 @@ public class Zoo {
         this();
         this.name = name;
         this.city = city;
+    }
+
+    public int getNbrAnimals() {
+        return nbrAnimals;
+    }
+
+    public void addAnimal(Animal animal) throws ZooFullException, InvalidAgeException {
+        if (animal.getAge() < 0) {[cite: 7]
+            throw new InvalidAgeException();[cite: 7]
+        }
+        if (nbrAnimals >= MAX_ANIMALS) {
+            throw new ZooFullException();[cite: 6]
+        }
+        animals[nbrAnimals] = animal;
+        nbrAnimals++;
+        System.out.println("Animal ajouté avec succès.");
     }
 
     public void addAquaticAnimal(Aquatic aquatic) {[cite: 3]
